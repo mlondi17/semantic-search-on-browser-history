@@ -46,7 +46,7 @@ You will need:
 
 2. In order to perform semantic search on our urls we have to first generete the embeddings and create a search index on atlas. Make sure you [follow the video](https://www.youtube.com/watch?v=JEBDfGqrAUA&t=207s) on how to do that. 
 
-3. After generate the embeddings and set up your search index in atlas. You can now query your database for the url that matches your description. You can run semantic_search.py and insert your query.
+3. After generating the embeddings and setting up your search index in atlas. You can now query your database for the url that matches your description. You can run semantic_search.py and insert your query.
 
 
 ## License
